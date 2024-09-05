@@ -63,3 +63,8 @@ Por la resolución de mi pantalla original tuve que incrementar el tamaño de la
 1. Pycharm Professional Edition
 ![img_19.png](img_19.png)
 2. JupyterLab Desktop
+
+También se descargó vía terminal con el comando.deb el navegador Vivaldi
+![img_20.png](img_20.png)
+
+![img_21.png](img_21.png)
