@@ -76,9 +76,6 @@ sudo reboot
 
 ## 4. Instalar la aplicación de Webex en su dispositivo.
 
-Instalando la aplicación de Webex en Linux
-![Captura de la instalación de la aplicación de Webex en Linux](images/image-12.png)
-
 Instalando la aplicación de Webex en Windows
 
 ![alt text](images/image-13.png)
